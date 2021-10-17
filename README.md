@@ -1,7 +1,7 @@
 # IBM Python Project
 This is Python Project (part of Coursera IBM Data Science Professional).
 
-Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
+## Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
 Instruction
 - To completed the two previous yfinance and web scraping labs.
