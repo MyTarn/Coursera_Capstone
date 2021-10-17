@@ -1,2 +1,2 @@
-# Data Science Project
-This is Data Science Project (Coursera IBM Data Science Professional).
+# IBM Python Project
+This is Python Project (part of Coursera IBM Data Science Professional).
