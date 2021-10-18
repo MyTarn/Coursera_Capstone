@@ -1,5 +1,5 @@
 # IBM Python Project
-This is Python Project (part of Coursera IBM Data Science Professional).
+This is a Python Project (part of Coursera IBM Data Science Professional).
 
 ## Hands-on Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
