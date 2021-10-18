@@ -5,5 +5,5 @@ This is a Python Project (part of Coursera IBM Data Science Professional).
 
 Instruction
 - Extracting and Visualizing Stock Data.
-- To completed the two previous yfinance and web scraping labs.
+- To complete the two previous yfinance and web scraping labs.
 - As a data scientist working for an investment firm, extract the revenue data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the revenue.
